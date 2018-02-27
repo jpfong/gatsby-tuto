@@ -5,7 +5,6 @@ import { rhythm } from "../utils/typography";
 import Link from "gatsby-link"
 
 export default ({ data }) => {
-  console.log(data);
   return (
     <div>
       <g.H1 display={"inline-block"} borderBottom={"1px solid"}>
