@@ -12,10 +12,12 @@
     "gatsby": "^1.9.119",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-glamor": "^1.6.9",
+    "gatsby-plugin-react-helmet": "^2.0.8",
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-source-filesystem": "^1.5.9",
     "gatsby-transformer-remark": "^1.7.23",
     "glamorous": "^4.11.0",
+    "react-helmet": "^5.2.0",
     "typography-theme-kirkham": "^0.16.3"
   }
 }
