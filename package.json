@@ -2,6 +2,7 @@
   "name": "gatsby-starter-hello-world",
   "description": "Gatsby hello world starter",
   "license": "MIT",
+  "version": "1.0.0",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
